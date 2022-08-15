@@ -1,16 +1,28 @@
-### Hi there 👋
+# Howdy!! 👋
 
-<!--
-**johnsonjo4531/johnsonjo4531** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Tech I use at work: 
+- [Node.js](https://nodejs.org/en/)
+- [Docker](https://www.docker.com/)
+- [React](https://reactjs.org/) & [React Native](https://reactnative.dev/)
+- [GraphQL](https://graphql.org/)
+  - [TypeGraphQL](https://typegraphql.com/) (backend) 
+  - [GQty](https://gqty.dev/) (frontend)
 
-Here are some ideas to get you started:
+## Things I've loved learning about:
+- Discrete Math (at USU in Fall 2016)
+- Computational Geometry (Masters level class I took as an undergrad at USU in Spring 2018)
+- CS 1,2 & 3 (at USU)
+- Competitive Programming
+- Philosophy
+- Christianity
+- Math
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Things I've always wanted to learn more in depth:
+- Distributed Systems
+- Creating Auth Servers (Think OpenID Connect)
+
+## My Favorite Internet point sources 
+![my project euler profile](https://projecteuler.net/profile/johnsonjo.png)
+![my stackoverflow profile](https://stackoverflow.com/users/flair/2066736.png)
+
