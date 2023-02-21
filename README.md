@@ -6,7 +6,7 @@
 - [React](https://reactjs.org/) & [React Native](https://reactnative.dev/)
 - [GraphQL](https://graphql.org/)
   - [TypeGraphQL](https://typegraphql.com/) (backend) 
-  - [GQty](https://gqty.dev/) (frontend)
+  - [React Relay](https://relay.dev/) (frontend)
 
 ## Things I've loved learning about:
 - Discrete Math (at USU in Fall 2016)
