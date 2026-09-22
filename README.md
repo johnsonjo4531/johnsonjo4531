@@ -4,7 +4,7 @@
 
 I started my web development journey my sophomore year in high school back in 2008 by taking a web development course.
 I graduated highschool in 2010 and then shortly there after went on a service mission.
-When I got back I got my first job in web dev in 2012 (I have been in the industry since then) then started college at USU in spring 2013.
+When I got back I got my first job in web dev in 2012 (I have been in the industry since) then started college at USU in spring 2013.
 I graduated college in spring 2018 with my Bachelor's of Science degree. I took an extra year since I switched majors from Information Systems
 to Computer Science (cause I really enjoyed programming and the theory behind it and thought Computer Science would be more
 enjoyable.) Over the course of my Computer Science studies I learned to love Math and algorithms. I absolutely loved getting my degree and soaking up all I could.
